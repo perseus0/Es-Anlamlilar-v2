@@ -2,7 +2,7 @@
 ## GITHUB ÖNİZLEME ÖZELLİĞİ
 GitHub Csv için önizleme özelliğine uygun csv yüklenmiştir.
 
-[DOSYA](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.csv)
+[DOSYA](https://github.com/reddotzero/Es-Anlamlilar-v2/blob/master/EsAnlamlilar.csv)
 
 Türkçe Eş Anlamlı Kelimeler (JSON, SQL, PHP)
 

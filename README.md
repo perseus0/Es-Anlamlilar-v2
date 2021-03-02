@@ -6,7 +6,7 @@ GitHub Csv için önizleme özelliğine uygun csv yüklenmiştir.
 
 Türkçe Eş Anlamlı Kelimeler (JSON, SQL, PHP)
 
-Alabileceğiniz Formatlar: [JSON](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.json) [XML](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.xml) [PHP ARRAY](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.php) [Excel CSV](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.csv) [SQL](https://github.com/Quiec/Es-Anlamlilar/blob/master/EsAnlamlilar.sql)
+Alabileceğiniz Formatlar: [JSON](https://github.com/reddotzero/Es-Anlamlilar-v2/blob/master/EsAnlamlilar.json) [XML](https://github.com/reddotzero/Es-Anlamlilar-v2/blob/master/EsAnlamlilar.xml) [PHP ARRAY](https://github.com/reddotzero/Es-Anlamlilar-v2/blob/master/EsAnlamlilar.php) [Excel CSV](https://github.com/reddotzero/Es-Anlamlilar-v2/blob/master/EsAnlamlilar.csv) [SQL](https://github.com/reddotzero/Es-Anlamlilar-v2/blob/master/EsAnlamlilar.sql)
 
 Bulunan Kelime Sayısı: 14,136
 
